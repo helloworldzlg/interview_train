@@ -29,6 +29,8 @@ int main()
 	
 	a.output();
 	b.output();
+    
+    cout << sizeof(a) << endl;
 	
 	return 0;
 }

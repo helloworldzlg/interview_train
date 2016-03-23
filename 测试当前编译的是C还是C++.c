@@ -16,6 +16,17 @@ int main()
 	return 0;
 }
 
+/**
+
+#ifdef _cplusplus
+	extern "C" {
+#endif
+
+#ifdef _cplusplus
+}
+#endif
+**/
+
 
 
 
